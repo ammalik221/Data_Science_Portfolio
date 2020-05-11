@@ -1,2 +1,2 @@
-# deep_learning_projects
+# Deep Learning Projects
 This repository contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, Deep Learning Specialization on Coursera.
