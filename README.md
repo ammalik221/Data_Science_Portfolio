@@ -3,8 +3,6 @@ This Repository contains a portfolio of data science projects presented using Ju
 
 For a more visually pleasant experience, check out my portfolio at [ammarmalik.com](https://ammalik221.github.io/ammar-portfolio/)
 
-Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
-
 # Contents
 
 - ### Deep Learning
