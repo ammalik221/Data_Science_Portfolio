@@ -18,7 +18,7 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
   - [Iris Dataset](): Classifying flowers based on different types of features using a Random Forest Generator.
 
 - ### Personal Projects
-  - [Bio-medical Image Segmentation](): A keras based implementation of UNet++ model used for image segmentation based on a [Research Paper](https://arxiv.org/abs/1807.10165) by Zhou et al.
+  - [Bio-medical Image Segmentation](): A comparision of U-Net and U-Net++ model by using them for [segmenting OCT images(DME)](https://www.kaggle.com/paultimothymooney/chiu-2015).
   - [RSNA Pneumonia Detection Challenge](): The algorithm needs to automatically locate lung opacities on chest radiographs.
   - [Generate new handwritten digits](): Using a Variational Autoencoder to generate new handwritten digits.
   - [Data Analysis Techniques](): A Jupyter notebook containing data analysis techniques using Pandas and Seaborn library.
