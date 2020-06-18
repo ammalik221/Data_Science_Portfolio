@@ -28,7 +28,7 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
   - [Sentiment Classifier](): A simple classifier based on a public set of tweets labelled with various sentiments.
   - [Generating Shakespeare-Like Texts](): Using LSTMs to generate text based on the dataset provided by Project Gutenberg.
   
-- ### [Data Structures and Algorithms implemented in Python](https://github.com/ammalik221/Python-Data-Structures)
+- ### Data Structures and Algorithms [Implemented in Python](https://github.com/ammalik221/Python-Data-Structures)
   - Collections
   - Searching and Sorting
 
