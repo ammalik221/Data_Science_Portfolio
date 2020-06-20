@@ -31,6 +31,7 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
 - ### Data Structures and Algorithms ([Implemented in Python](https://github.com/ammalik221/Python-Data-Structures))
   - Collections
   - Searching and Sorting
+  - Maps and Hashing
 
 - ### Mini Projects
 **Tools:**  _scikit-learn, Pandas, Seaborn, Matplotlib, keras, Tensorflow_
