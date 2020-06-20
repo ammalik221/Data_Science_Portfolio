@@ -32,6 +32,7 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
   - Collections
   - Searching and Sorting
 
+- ### Mini Projects
 **Tools:**  _scikit-learn, Pandas, Seaborn, Matplotlib, keras, Tensorflow_
 
 ---
