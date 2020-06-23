@@ -1,4 +1,4 @@
-# Deep Learning Projects
+# My Portfolio
 This Repository contains a portfolio of data science projects presented using Jupyter Notebooks. I have documented the projects for academic purposes.
 
 For a more visually pleasant experience, check out my portfolio at [ammalik221.github.io](https://ammalik221.github.io/ammar-portfolio/)
