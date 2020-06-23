@@ -40,6 +40,6 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
 
 **Tools:**  _Pytorch, scikit-learn, Pandas, Seaborn, Matplotlib, keras, Tensorflow_
 
-======
+<hr/>
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at contact@ammaralammalik221.com.
