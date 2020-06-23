@@ -36,7 +36,6 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
   - Graphs
   - Miscellaneous
 
-- ### Mini Projects
 **Tools:**  _Pytorch, scikit-learn, Pandas, Seaborn, Matplotlib, keras, Tensorflow_
 
 ---
