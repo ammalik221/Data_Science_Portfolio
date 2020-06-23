@@ -28,6 +28,7 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
   - Generate new handwritten digits: Using a Variational Autoencoder to generate new handwritten digits.
   - Data Analysis Techniques: A Jupyter notebook containing data analysis techniques using Pandas and Seaborn library.
   - Data Augmentation Techniques: Different Image Augmentation techniques using a custom data generator.
+  - PyTorch Warm-up: Some basic pytorch exercises based on this [repository](https://github.com/jcjohnson/pytorch-examples#warm-up-numpy) by Justin Johnson.
   
 - ### Data Structures and Algorithms.([Here](https://github.com/ammalik221/Python-Data-Structures))
   - Collections
