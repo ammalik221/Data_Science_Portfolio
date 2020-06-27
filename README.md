@@ -5,7 +5,7 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
 
 # Contents
 
-- ### Deep Learning.([Here]())
+- ### Deep Learning.([Here](https://github.com/ammalik221/Neural-Network-Projects))
   <!--- **Finding nuclei in images:** A computer model that can identify a range of nuclei across varied conditions for Data Science Bowl 2018 hosted by Kaggle.
   - **TGS Salt Identification Challenge:** Keras based Unet implementation with ResNet Encoder.
   - **Bio-medical Image Segmentation:** A comparision of U-Net and U-Net++ model by using them for [segmenting OCT images(DME)](https://www.kaggle.com/paultimothymooney/chiu-2015).
@@ -19,11 +19,11 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
   - **Stock Price Prediction:** Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
   - **Iris Dataset:** Classifying flowers based on different types of features using a Random Forest Generator.-->
 
-- ### Natural language Processing.([Here]())
+- ### Natural language Processing.([Here](https://github.com/ammalik221/Neural-Network-Projects))
   - **Sentiment Classifier:** Sentiment Analysis using LSTM on movie reviews which identifies whether the review is positive or not.
   - **Generating Shakespeare-Like Texts:** Using LSTMs to generate new text character by character imeplemented in PyTorch, based on Andrej Karpathy's [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs
   
-- ### Mini Projects.([Here]())
+- ### Mini Projects.([Here](https://github.com/ammalik221/Mini-Projects))
   <!--- **Dogs vs Cats Prediction Problem:** Designing and implementing a classifier which learns to differentiate between Dogs and Cats using image embeddings obtained from a pretrained network (VGG16).
   - **Digit Recognizer:** Designing and implementing a CNN model that can identify digits by MNIST data.
   - **Generate new handwritten digits:** Using a Variational Autoencoder to generate new handwritten digits.
