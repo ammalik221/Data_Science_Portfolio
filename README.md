@@ -10,7 +10,7 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
   - **TGS Salt Identification Challenge:** Keras based Unet implementation with ResNet Encoder.
   - **Bio-medical Image Segmentation:** A comparision of U-Net and U-Net++ model by using them for [segmenting OCT images(DME)](https://www.kaggle.com/paultimothymooney/chiu-2015).
   - **RSNA Pneumonia Detection Challenge:** The algorithm needs to automatically locate lung opacities on chest radiographs.-->
-  - **K-Nearest Neighbour Classifier:** 
+  - **CS-231n:** Completed Assignment solutions for CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html), provided by Stanford.
   - **Image Style Transfer:** Compose one image in the style of another image. This is and optimization technique which uses two images and blends them together, so that output image looks like one image in the style of the other image.
    
 <!--- ### Machine Learning.([Here]())
