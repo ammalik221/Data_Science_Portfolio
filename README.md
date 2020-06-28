@@ -12,6 +12,7 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
   - **RSNA Pneumonia Detection Challenge:** The algorithm needs to automatically locate lung opacities on chest radiographs.-->
   - **CS-231n:** Completed Assignment solutions for CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html), provided by Stanford.
   - **Image Style Transfer:** Compose one image in the style of another image. This is and optimization technique which uses two images and blends them together, so that output image looks like one image in the style of the other image.
+  - **Deep Photo Style Transfer:**  Deep-learning approach to photographic style transfer that handles a large variety of image content while faithfully transferring the reference style.
    
 <!--- ### Machine Learning.([Here]())
   - **Titanic Dataset:** Exploratory Analysis of the passengers on board RMS Titanic using Pandas and Seaborn visualisations.
