@@ -10,9 +10,10 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
   - **TGS Salt Identification Challenge:** Keras based Unet implementation with ResNet Encoder.
   - **Bio-medical Image Segmentation:** A comparision of U-Net and U-Net++ model by using them for [segmenting OCT images(DME)](https://www.kaggle.com/paultimothymooney/chiu-2015).
   - **RSNA Pneumonia Detection Challenge:** The algorithm needs to automatically locate lung opacities on chest radiographs.-->
-  - **CS-231n:** Completed Assignment solutions for CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html), provided by Stanford.
+  - **CS-231n:** Completed Assignment solutions for CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html), provided by Stanford.(To-Do)
   - **Image Style Transfer:** Compose one image in the style of another image. This is and optimization technique which uses two images and blends them together, so that output image looks like one image in the style of the other image.
-  - **Deep Photo Style Transfer:**  Deep-learning approach to photographic style transfer that handles a large variety of image content while faithfully transferring the reference style.
+  - **Generating Shakespeare-Like Texts:** Using LSTMs to generate new text character by character imeplemented in PyTorch, based on Andrej Karpathy's [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs
+  <!-- **Deep Photo Style Transfer:**  Deep-learning approach to photographic style transfer that handles a large variety of image content while faithfully transferring the reference style.-->
    
 <!--- ### Machine Learning.([Here]())
   - **Titanic Dataset:** Exploratory Analysis of the passengers on board RMS Titanic using Pandas and Seaborn visualisations.
@@ -20,9 +21,8 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
   - **Stock Price Prediction:** Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
   - **Iris Dataset:** Classifying flowers based on different types of features using a Random Forest Generator.-->
 
-- ### Natural language Processing.([Here](https://github.com/ammalik221/Neural-Network-Projects))
-  - **Sentiment Classifier:** Sentiment Analysis using LSTM on movie reviews which identifies whether the review is positive or not.
-  - **Generating Shakespeare-Like Texts:** Using LSTMs to generate new text character by character imeplemented in PyTorch, based on Andrej Karpathy's [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs
+<!--- ### Natural language Processing.([Here](https://github.com/ammalik221/Neural-Network-Projects))
+  - **Sentiment Classifier:** Sentiment Analysis using LSTM on movie reviews which identifies whether the review is positive or not.-->
   
 - ### Mini Projects.([Here](https://github.com/ammalik221/Mini-Projects))
   <!--- **Dogs vs Cats Prediction Problem:** Designing and implementing a classifier which learns to differentiate between Dogs and Cats using image embeddings obtained from a pretrained network (VGG16).
