@@ -5,7 +5,7 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
 
 # Contents
 
-- ### Machine Learning.([Here](https://github.com/ammalik221/Neural-Network-Projects))
+- ### Neural Network based Projects.([Here](https://github.com/ammalik221/Neural-Network-Projects))
   <!--- **Finding nuclei in images:** A computer model that can identify a range of nuclei across varied conditions for Data Science Bowl 2018 hosted by Kaggle.
   - **TGS Salt Identification Challenge:** Keras based Unet implementation with ResNet Encoder.
   - **Bio-medical Image Segmentation:** A comparision of U-Net and U-Net++ model by using them for [segmenting OCT images(DME)](https://www.kaggle.com/paultimothymooney/chiu-2015).
