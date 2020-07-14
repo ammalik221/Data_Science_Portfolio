@@ -13,7 +13,7 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
   - **CS-231n:** Completed Assignment solutions for CS231n: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html), provided by Stanford.(To-Do)
   - **Image Style Transfer:** Compose one image in the style of another image. This is an optimization technique which uses two images and blends them together, so that output image looks like one image in the style of the other image.
   - **Generating Shakespeare-Like Texts:** Using LSTMs to generate new text character by character imeplemented in PyTorch, based on Andrej Karpathy's [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs
-  - **EDA on medium.com dataset:** Dataset contains all posts tagged AI, Machine Learning, Data Science or Aritificial Intelligence on Medium. Purpose was to identify relations between variou features and the number of claps recieved on posts.
+  - **EDA on medium.com dataset:** Dataset contains all posts tagged AI, Machine Learning, Data Science or Aritificial Intelligence on Medium. Purpose was to identify relations between various features and the number of claps recieved on posts.
   <!-- **Deep Photo Style Transfer:**  Deep-learning approach to photographic style transfer that handles a large variety of image content while faithfully transferring the reference style.-->
    
 <!--- ### Machine Learning.([Here]())
