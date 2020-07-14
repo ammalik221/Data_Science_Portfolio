@@ -42,7 +42,7 @@ For a more visually pleasant experience, check out my portfolio at [ammalik221.g
   <!--- Graphs
   - Miscellaneous-->
 
-**Tools:**  _Pytorch, scikit-learn, Pandas, Seaborn, Matplotlib, keras, Tensorflow_
+**Tools:**  _Pytorch, scikit-learn, Pandas, Seaborn, Matplotlib, keras_
 
 <hr/>
 
